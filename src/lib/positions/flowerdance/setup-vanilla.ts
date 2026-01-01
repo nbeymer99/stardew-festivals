@@ -522,6 +522,15 @@ const flowerdance_setup_1_vanilla = [
         "tileY": 41
     },
     {
+        "displayName": "The Cat King",
+        "internalID": "CatKing",
+        "modUniqueID": "handwrittenhello.dbda",
+        "modDisplayName": "Dead Boy Detectives",
+        "image": "/sprites/CatKing.png",
+        "tileX": 5,
+        "tileY": 38
+    },
+	{
         "displayName": "Charles",
         "internalID": "CharlesRowland",
         "modUniqueID": "handwrittenhello.dbda",
@@ -547,6 +556,33 @@ const flowerdance_setup_1_vanilla = [
         "image": "/sprites/EdwinPayne.png",
         "tileX": 25,
         "tileY": 28
+    },
+	{
+        "displayName": "Esther",
+        "internalID": "EstherFinch",
+        "modUniqueID": "handwrittenhello.dbda",
+        "modDisplayName": "Dead Boy Detectives",
+        "image": "/sprites/EstherFinch.png",
+        "tileX": 42,
+        "tileY": 43
+    },
+	{
+        "displayName": "Monty",
+        "internalID": "MontyFinch",
+        "modUniqueID": "handwrittenhello.dbda",
+        "modDisplayName": "Dead Boy Detectives",
+        "image": "/sprites/MontyFinch.png",
+        "tileX": 41,
+        "tileY": 43
+    },
+	{
+        "displayName": "Niko",
+        "internalID": "NikoSasaki",
+        "modUniqueID": "handwrittenhello.dbda",
+        "modDisplayName": "Dead Boy Detectives",
+        "image": "/sprites/CharlesRowland.png",
+        "tileX": 24,
+        "tileY": 30
     },
     {
         "displayName": "Laila",
