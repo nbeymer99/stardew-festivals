@@ -317,6 +317,78 @@ const eggfestival_setup_2_sve = [
         "tileX": 34,
         "tileY": 62
     },
+	{
+        "displayName": "The Cat King",
+        "internalID": "CatKing",
+        "modUniqueID": "handwrittenhello.dbda",
+        "modDisplayName": "Dead Boy Detectives",
+        "image": "/sprites/CatKing.png",
+        "tileX": 38,
+        "tileY": 69
+    },
+    {
+        "displayName": "Charles",
+        "internalID": "CharlesRowland",
+        "modUniqueID": "handwrittenhello.dbda",
+        "modDisplayName": "Dead Boy Detectives",
+        "image": "/sprites/CharlesRowland.png",
+        "tileX": 16,
+        "tileY": 74
+    },
+    {
+        "displayName": "Crystal",
+        "internalID": "CrystalPalace",
+        "modUniqueID": "handwrittenhello.dbda",
+        "modDisplayName": "Dead Boy Detectives",
+        "image": "/sprites/CrystalPalace.png",
+        "tileX": 17,
+        "tileY": 75
+    },
+    {
+        "displayName": "Edwin",
+        "internalID": "EdwinPayne",
+        "modUniqueID": "handwrittenhello.dbda",
+        "modDisplayName": "Dead Boy Detectives",
+        "image": "/sprites/EdwinPayne.png",
+        "tileX": 18,
+        "tileY": 74
+    },
+    {
+        "displayName": "Esther",
+        "internalID": "EstherFinch",
+        "modUniqueID": "handwrittenhello.dbda",
+        "modDisplayName": "Dead Boy Detectives",
+        "image": "/sprites/EstherFinch.png",
+        "tileX": 33,
+        "tileY": 80
+    },
+    {
+        "displayName": "Jenny",
+        "internalID": "JennyButcher",
+        "modUniqueID": "handwrittenhello.dbda",
+        "modDisplayName": "Dead Boy Detectives",
+        "image": "/sprites/JennyButcher.png",
+        "tileX": 38,
+        "tileY": 62
+    },
+    {
+        "displayName": "Monty",
+        "internalID": "MontyFinch",
+        "modUniqueID": "handwrittenhello.dbda",
+        "modDisplayName": "Dead Boy Detectives",
+        "image": "/sprites/MontyFinch.png",
+        "tileX": 31,
+        "tileY": 78
+    },
+    {
+        "displayName": "Niko",
+        "internalID": "NikoSasaki",
+        "modUniqueID": "handwrittenhello.dbda",
+        "modDisplayName": "Dead Boy Detectives",
+        "image": "/sprites/NikoSasaki.png",
+        "tileX": 17,
+        "tileY": 73
+    },
     {
         "displayName": "Laila",
         "internalID": "Laila",
