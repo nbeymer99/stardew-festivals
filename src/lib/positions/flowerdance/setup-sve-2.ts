@@ -326,6 +326,69 @@ const flowerdance_setup_2_sve = supplement([
         "tileX": 3,
         "tileY": 41
     },
+	{
+        "displayName": "The Cat King",
+        "internalID": "CatKing",
+        "modUniqueID": "handwrittenhello.dbda",
+        "modDisplayName": "Dead Boy Detectives",
+        "image": "/sprites/CatKing.png",
+        "tileX": 5,
+        "tileY": 38
+    },
+	{
+        "displayName": "Charles",
+        "internalID": "CharlesRowland",
+        "modUniqueID": "handwrittenhello.dbda",
+        "modDisplayName": "Dead Boy Detectives",
+        "image": "/sprites/CharlesRowland.png",
+        "tileX": 25,
+        "tileY": 37
+    },
+    {
+        "displayName": "Crystal",
+        "internalID": "CrystalPalace",
+        "modUniqueID": "handwrittenhello.dbda",
+        "modDisplayName": "Dead Boy Detectives",
+        "image": "/sprites/CrystalPalace.png",
+        "tileX": 24,
+        "tileY": 35
+    },
+    {
+        "displayName": "Edwin",
+        "internalID": "EdwinPayne",
+        "modUniqueID": "handwrittenhello.dbda",
+        "modDisplayName": "Dead Boy Detectives",
+        "image": "/sprites/EdwinPayne.png",
+        "tileX": 25,
+        "tileY": 36
+    },
+	{
+        "displayName": "Esther",
+        "internalID": "EstherFinch",
+        "modUniqueID": "handwrittenhello.dbda",
+        "modDisplayName": "Dead Boy Detectives",
+        "image": "/sprites/EstherFinch.png",
+        "tileX": 42,
+        "tileY": 43
+    },
+	{
+        "displayName": "Monty",
+        "internalID": "MontyFinch",
+        "modUniqueID": "handwrittenhello.dbda",
+        "modDisplayName": "Dead Boy Detectives",
+        "image": "/sprites/MontyFinch.png",
+        "tileX": 41,
+        "tileY": 43
+    },
+	{
+        "displayName": "Niko",
+        "internalID": "NikoSasaki",
+        "modUniqueID": "handwrittenhello.dbda",
+        "modDisplayName": "Dead Boy Detectives",
+        "image": "/sprites/CharlesRowland.png",
+        "tileX": 24,
+        "tileY": 38
+    },
     {
         "displayName": "Laila",
         "internalID": "Laila",
