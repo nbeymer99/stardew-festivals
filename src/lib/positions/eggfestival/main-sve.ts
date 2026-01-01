@@ -507,6 +507,15 @@ const eggfestival_main_1_sve = [
         "tileY": 57
     },
     {
+        "displayName": "The Cat King",
+        "internalID": "CatKing",
+        "modUniqueID": "handwrittenhello.dbda",
+        "modDisplayName": "Dead Boy Detectives",
+        "image": "/sprites/CatKing.png",
+        "tileX": 38,
+        "tileY": 70
+    },
+    {
         "displayName": "Charles",
         "internalID": "CharlesRowland",
         "modUniqueID": "handwrittenhello.dbda",
@@ -532,6 +541,42 @@ const eggfestival_main_1_sve = [
         "image": "/sprites/EdwinPayne.png",
         "tileX": 18,
         "tileY": 74
+    },
+    {
+        "displayName": "Esther",
+        "internalID": "EstherFinch",
+        "modUniqueID": "handwrittenhello.dbda",
+        "modDisplayName": "Dead Boy Detectives",
+        "image": "/sprites/EstherFinch.png",
+        "tileX": 33,
+        "tileY": 80
+    },
+    {
+        "displayName": "Jenny",
+        "internalID": "JennyButcher",
+        "modUniqueID": "handwrittenhello.dbda",
+        "modDisplayName": "Dead Boy Detectives",
+        "image": "/sprites/JennyButcher.png",
+        "tileX": 38,
+        "tileY": 62
+    },
+    {
+        "displayName": "Monty",
+        "internalID": "MontyFinch",
+        "modUniqueID": "handwrittenhello.dbda",
+        "modDisplayName": "Dead Boy Detectives",
+        "image": "/sprites/MontyFinch.png",
+        "tileX": 31,
+        "tileY": 78
+    },
+    {
+        "displayName": "Niko",
+        "internalID": "NikoSasaki",
+        "modUniqueID": "handwrittenhello.dbda",
+        "modDisplayName": "Dead Boy Detectives",
+        "image": "/sprites/NikoSasaki.png",
+        "tileX": 17,
+        "tileY": 73
     },
     {
         "displayName": "Laila",
